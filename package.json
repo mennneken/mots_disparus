@@ -1,0 +1,30 @@
+{
+  "name": "mots_disparus",
+  "version": "1.0.0",
+  "description": "Web app for a fictive museum. This is a school project 🤖",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathan-hage/mots_disparus.git"
+  },
+  "keywords": [
+    "school",
+    "project",
+    "forgoten",
+    "words",
+    "french",
+    "museum"
+  ],
+  "author": "Alexandra Duquenoys, Robin Nguyen, Sebastien Seghers & Nathan Hage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan-hage/mots_disparus/issues"
+  },
+  "homepage": "https://github.com/nathan-hage/mots_disparus#readme",
+  "dependencies": {
+    "tesseract.js": "^1.0.10"
+  }
+}
